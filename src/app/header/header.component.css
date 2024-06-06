@@ -1,0 +1,19 @@
+.active-link{
+    color: white;
+}/* highlighting the component which has active router link*/
+.bg-dark-blue {
+    background-color: #00008b; /* header background color is Dark blue  */
+}
+.nav-icon {
+    width: 20px; /* Adjust the width as needed */
+    height: auto;
+    margin-right: 5px; /* Add some margin between the icon and the text */
+    
+  }
+  .home-icon{
+    background-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' %3F%3E%3C!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'%3E%3Csvg enable-background='new 0 0 50 50' height='50px' id='Layer_1' version='1.1' viewBox='0 0 50 50' width='50px' xml:space='preserve' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Crect fill='none' height='50' width='50'/%3E%3Cpolyline fill='none' points='44,21 44,49 6,49 6,21 ' stroke='%23000000' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2'/%3E%3Cpolyline fill='none' points='19,49 19,28 31,28 31,49 ' stroke='%23000000' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2'/%3E%3Cpolygon points='35,5 35,8.016 37,10.094 37,7 39,7 39,12.203 41,14.266 41,5 '/%3E%3Cpolyline fill='none' points=' 1.11,25.942 25,1.053 48.89,25.943 ' stroke='%23000000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10' stroke-width='2'/%3E%3C/svg%3E");
+  }
+  
+  
+
+  
